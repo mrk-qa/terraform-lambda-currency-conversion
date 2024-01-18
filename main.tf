@@ -7,6 +7,12 @@ terraform {
       version = "5.31.0"
     }
   }
+
+  backend "s3" {
+    bucket = "remote-state-tf-marco-qa.amazonaws.com"
+    key    = "lambda-conversion-github/terraform.tfstate"
+    region = "us-east-1"
+  }
 }
 
 provider "aws" {
