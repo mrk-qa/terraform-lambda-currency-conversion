@@ -22,10 +22,10 @@ aws
 
 ## 🎯 API Query Params
 
-*amount=number*
-*fromCurrency=valid currency acronym*
-*toCurrency=valid currency acronym*
-
+*amount=number*  
+*fromCurrency=valid currency acronym*  
+*toCurrency=valid currency acronym*  
+  
 **The list of valid currencies is in this documentation: [forex_python](https://forex-python.readthedocs.io/en/latest/currencysource.html)**
 
 ## 🔮 Support this project  
