@@ -1,6 +1,6 @@
 # AWS Lambda and API Gateway using Terraform to provision infrastructure on AWS ☁️
 
-<div align="center"><img width="600px"  src="https://github.com/mrk-qa/infra-test-terratest/blob/90c550725f6e592cdec0679a1cf7a2ba1045c17b/assets/terraform_terratest_githubactions.png">
+<div align="center"><img width="600px"  src="https://github.com/mrk-qa/terraform-lambda-currency-conversion/blob/af98e45a31f56a3052e8972d8e5dfd5cfcaee6f6/assets/apigateway_lambda.png">
 </div>
 
 ------
